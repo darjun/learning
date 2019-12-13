@@ -35,6 +35,7 @@
 - [Ultimate Go](https://github.com/hoanhan101/ultimate-go)
 - [跟煎鱼学 Go](https://book.eddycjy.com/golang/)
 - [gophercises](https://gophercises.com/)
+- [Gopher Academy Blog](https://blog.gopheracademy.com/)
 
 - [Go Web 开发](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
 - [Learn Web Programming in Go by Example](https://gowebexamples.com/)，通过示例学习 Go Web 编程
@@ -76,6 +77,7 @@
 ## Web
 
 - [freecodecamp](https://www.freecodecamp.org/learn/)，完整的 Web 教程，从 HTML/CSS/JS 等基础知识，到 Bootstrap/jQuery 等库，再到 React 等框架，到后端 NodeJS，应有尽有 :star:
+- [前端工匠](https://github.com/ljianshu/Blog)，前端原理剖析
 
 ## 免费的图标和图片
 
