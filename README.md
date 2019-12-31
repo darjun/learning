@@ -79,6 +79,7 @@
 - [exercism](https://exercism.io/)，编程语言教程
 - [docs4dev](https://www.docs4dev.com/)，收集技术中文文档，Java/Spring全家桶/Linux/BigData等
 - [码农周刊](https://github.com/rogerzhu/MNWeeklyCategory)
+- [Github开源实战项目](https://juejin.im/post/5df9fe6be51d45583c1cc3f7)
 
 ## Web
 
