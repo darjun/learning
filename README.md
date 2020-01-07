@@ -37,6 +37,7 @@
 - [跟煎鱼学 Go](https://book.eddycjy.com/golang/)
 - [gophercises](https://gophercises.com/)
 - [Gopher Academy Blog](https://blog.gopheracademy.com/)
+- [Go 语言原本](https://github.com/changkun/go-under-the-hood)
 
 - [Go Web 开发](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
 - [无闻的 Go Web 教程](https://github.com/unknwon/building-web-applications-in-go)
