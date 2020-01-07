@@ -46,6 +46,7 @@
 - [A Million WebSockets and Go](https://www.freecodecamp.org/news/million-websockets-and-go-cc58418460bb/)
 - [high performance go workshop](https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html)，如何分析和优化 Go 程序性能
 - [深入理解channel：设计+源码](http://lessisbetter.site/2019/03/03/golang-channel-design-and-source/)
+- [Go GC 20问](https://mp.weixin.qq.com/s/o2oMMh0PF5ZSoYD0XOBY2Q)
 
 - [go.dev](https://go.dev/)，Go 官方资源汇总
 - [Go AST](http://goast.yuroyoro.net/)，在线查看 Go AST 语法树
