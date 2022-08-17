@@ -4,14 +4,21 @@
 
 ## 目录
 
+* [编程基础](#编程基础)
 * [Docker](#Docker)
 * [Go](#Go)
 * [C/C++](#C)
-* [MySQL](#MySQL)
-* [PostgreSQL](#PostgreSQL)
+* [DB](#DB)
+* [Network](#Network)
 * [Tutorial](#Tutorial)
 * [Web](#Web)
 * [免费的图标和图片](#免费的图标和图片)
+
+## 编程基础
+
+- [free programming books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)，免费的编程书籍
+
+[回到目录](#目录)
 
 ## Docker
 
@@ -95,12 +102,51 @@
 [回到目录](#目录)
 
 ## C/C++
+- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)，由 C++ 创始人 Bjarne Stroustrup 和巨佬 Herb Sutter 维护的 C++ 核心指南
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)，Google C++ 编码规范
+- [JSON for Modern C++](https://github.com/nlohmann/json)，现代 C++ 编写的 JSON 库
+- [Standard Template Library Programer's Guide](https://www.boost.org/sgi/stl/)，标准模板库编程指南
+- [muduo](https://github.com/chenshuo/muduo)，陈硕开源的多线程 C++ 网络库
+- [jemalloc](https://jemalloc.net/)，应用广泛的内存分配器库
+- [Optimizations That Aren't(In a Multithreaded World)](http://www.gotw.ca/publications/optimizations.htm)，有些优化对多线程无效
+- [folly](https://github.com/facebook/folly)，facebook 开源的 C++ 程序库，包含多种功能（容器、压缩、并发等等）
+- [workflow](https://github.com/sogou/workflow)，搜狗开源的 C++ 并行计算和异步网络编程引擎
+- [googletest](https://google.github.io/googletest/primer.html)，Google C++ 测试框架
+- [abseil](https://abseil.io/docs/cpp/)，Google 开源的 C++ 编程库
+- [Crafting Interpreters](http://craftinginterpreters.com/contents.html)，自己动手实现解释器
 
-## MySQL
+## Network
 
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/#structs)，网络编程教程
+
+## DB
+
+- [awesome database learning](https://github.com/pingcap/awesome-database-learning)，pingcap 整理的数据库学习指南
+
+### kv
+
+- [leveldb](https://github.com/google/leveldb)，Google 开源的高性能 key-value 存储库
+- [rocksdb](https://github.com/facebook/rocksdb)，facebook 从 leveldb 演化的一个分支，做了很多优化
+
+- [tidb](https://github.com/pingcap/tidb)，开源、云原生、分布式、MySQL 兼容的数据库
+- [tikv](https://github.com/tikv/tikv)，分布式 key-value 存储，是 tidb 的一个补充
+- [talent-plan](https://github.com/pingcap/talent-plan)，pingcap 出品的数据库教程，用 Go 实现一个分布式关系型数据库 TinySQL，用 Go 实现一个分布式key-value数据库，深入了解 TiDB 和 TiKV
+- [三篇文章了解 TiDB 技术内幕](https://pingcap.com/zh/blog/tidb-internal-1)，TiDB 技术内幕
+- [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)，自己动手实现一个数据库
+- [toydb](https://github.com/erikgrinaker/toydb)，Rust 实现的分布式 SQL 数据库，一个学习项目
+
+### redis
+
+- [redis.io](https://redis.io/)，redis 官方网站
+- [antirez](http://oldblog.antirez.com/)，redis 作者 blog
+- [redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer)，redis 内存分析工具，可以识别模式键名，例如 user:* 占用多少内存
+
+### MySQL
+
+- [SQLite](https://www.sqlite.org/arch.html)，SQLite 架构
 - [MySQL Tutorial](http://www.mysqltutorial.org/)，MySQL 教程，从入门到精通，触发器/存储过程/视图/全文搜索等都有讲述，非常全面。还有各种语言的编程接口教程，PHP/NodeJS/JDBC/Python/Perl
 
-## PostgreSQL
+### PostgreSQL
 
 - [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)，PostgreSQL 教程，非常全面
 
