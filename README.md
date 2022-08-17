@@ -60,7 +60,7 @@
 - [fiber](https://github.com/gofiber/fiber)，NodeJS express 框架的 go 版本
 - [chi](https://github.com/go-chi/chi)，轻量级的 go web 框架
 - [echo](https://github.com/labstack/echo)，高性能，简洁的 go web 框架
-- [caddy](https://github.com/caddyserver/caddy)]，快速，多平台 web 服务器，自带  HTTPS
+- [caddy](https://github.com/caddyserver/caddy)，快速，多平台 web 服务器，自带  HTTPS
 - [httprouter](https://github.com/julienschmidt/httprouter)，路由库
 - [web-frameworks](https://github.com/the-benchmarker/web-frameworks)，go web 框架的比较工具
 - [websocket](https://github.com/gorilla/websocket)，快，充分测试，广泛使用的 WebSocket 库
