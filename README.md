@@ -10,6 +10,7 @@
 * [C/C++](#C)
 * [DB](#DB)
 * [Network](#Network)
+* [数据结构与算法](#数据结构与算法)
 * [Tutorial](#Tutorial)
 * [Web](#Web)
 * [免费的图标和图片](#免费的图标和图片)
@@ -48,6 +49,7 @@
 - [Learn Web Programming in Go by Example](https://gowebexamples.com/)，通过示例学习 Go Web 编程
 - [GoAdmin](https://github.com/GoAdminGroup/go-admin)，快速搭建 Go 可视化面板
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)，基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能
+- [go-ldap-admin](https://github.com/eryajf/go-ldap-admin)，基于 Go+Vue 实现的 openLDAP 后台管理项目
 
 ### Web 框架
 
@@ -115,10 +117,6 @@
 - [abseil](https://abseil.io/docs/cpp/)，Google 开源的 C++ 编程库
 - [Crafting Interpreters](http://craftinginterpreters.com/contents.html)，自己动手实现解释器
 
-## Network
-
-- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/#structs)，网络编程教程
-
 ## DB
 
 - [awesome database learning](https://github.com/pingcap/awesome-database-learning)，pingcap 整理的数据库学习指南
@@ -150,6 +148,25 @@
 
 - [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)，PostgreSQL 教程，非常全面
 
+
+## Network
+
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/#structs)，网络编程教程
+
+## 数据结构与算法
+
+- [hell-algorithm](https://github.com/geekxh/hello-algorithm)，针对小白的算法训练
+- [labuladong的算法小抄](https://labuladong.github.io/algo/)，leetcode 刷题指南
+- [algorithm base](https://github.com/chefyuan/algorithm-base)，动画说算法
+- [leetcode-master](https://github.com/youngyangyang04/leetcode-master)，leetcode 刷题攻略，有书《代码随想录》
+- [projecteuler](https://projecteuler.net/)，欧拉工程，数学与算法的结合
+- [令狐冲的算法小抄](https://github.com/ninechapter-algorithm/linghu-algorithm-templete)，算法小抄
+- [leetcode go](https://github.com/halfrost/LeetCode-Go)，用 Go 刷 leetcode
+- [leetcode](https://github.com/doocs/leetcode)，多种编程语言实现 Leetcode、《剑指offer》、《程序员面试金典》
+- [LeetCode](https://github.com/wisdompeak/LeetCode)，实现和精讲
+- [数据结构与算法(Golang实现)](https://github.com/hunterhug/goa.c)
+- [C++数据结构、算法与应用](https://www.cise.ufl.edu/~sahni/dsaac/)，《数据结构、算法与应用 C++》配套网站
+
 ## Tutorial
 
 - [RealWorld exmaple apps](https://github.com/gothinkster/realworld)，真实项目示例
@@ -161,8 +178,23 @@
 
 ## Web
 
+- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)，微软开发的 Web 开发者入门教程，24 节课
 - [freecodecamp](https://www.freecodecamp.org/learn/)，完整的 Web 教程，从 HTML/CSS/JS 等基础知识，到 Bootstrap/jQuery 等库，再到 React 等框架，到后端 NodeJS，应有尽有 :star:
 - [前端工匠](https://github.com/ljianshu/Blog)，前端原理剖析
+
+- [Learn CSS](https://web.dev/learn/css/)，学习 CSS
+- [css tutorial](https://github.com/pengfeiw/css-tutorial)，CSS 教程
+
+- [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)，30 天学 JavaScript
+
+- [vuejs](https://v2.cn.vuejs.org/v2/guide/)，Vue 官方网站
+- [21 Vue.js Example Projects](https://github.com/microsoft/Web-Dev-For-Beginners)，21 个 Vue 示例项目
+- [vue-chat](https://github.com/Coffcer/vue-chat)，基于 Vue+Vuex+webpack 的聊天示例
+- [vuepress](https://vuepress.vuejs.org/zh/)，Vue 驱动的静态网站生成器
+- [fenix-bookstore-frontend](https://github.com/fenixsoft/fenix-bookstore-frontend)，Fenix's BookStore 前端工程
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)，Vue 管理页面
+
+- [font-awesome](https://fontawesome.com/)，字体资源
 
 ## 免费的图标和图片
 
