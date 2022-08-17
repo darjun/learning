@@ -4,16 +4,19 @@
 
 ## 目录
 
-* [编程基础](#编程基础)
-* [Docker](#Docker)
-* [Go](#Go)
-* [C/C++](#C)
-* [DB](#DB)
-* [Network](#Network)
-* [数据结构与算法](#数据结构与算法)
-* [Tutorial](#Tutorial)
-* [Web](#Web)
-* [免费的图标和图片](#免费的图标和图片)
+- [编程基础](#编程基础)
+- [Docker](#docker)
+- [Go](#go)
+- [C/C++](#cc)
+- [DB](#db)
+- [Linux/UNIX](#linuxunix)
+- [Network](#network)
+- [数据结构与算法](#数据结构与算法)
+- [游戏开发](#游戏开发)
+- [Tutorial](#tutorial)
+- [Web](#web)
+- [Blog](#blog)
+- [免费的图标和图片](#免费的图标和图片)
 
 ## 编程基础
 
@@ -30,7 +33,7 @@
 
 ## Go
 
-### Go 基础
+基础
 
 - [The Complete Guide to Learning Go](https://www.calhoun.io/guide-to-go/)
 - [Learning Cloud Native Go](https://learning-cloud-native-go.github.io/)
@@ -40,18 +43,20 @@
 - [gophercises](https://gophercises.com/)
 - [Gopher Academy Blog](https://blog.gopheracademy.com/)
 - [Go 语言原本](https://github.com/changkun/go-under-the-hood)
+- [awesome golang workshops](https://github.com/amit-davidson/awesome-golang-workshops)
+- [gotraining](https://github.com/ardanlabs/gotraining)
+- [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)
 
-### Web
+Web 相关
 
 - [REST Servers in Go](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)，用 go 写一个 REST 服务器，系列文章
+- [Developing a RESTful API with Go and Gin](https://golang.org/doc/tutorial/web-service-gin)
 - [Go Web 开发](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
 - [无闻的 Go Web 教程](https://github.com/unknwon/building-web-applications-in-go)
 - [Learn Web Programming in Go by Example](https://gowebexamples.com/)，通过示例学习 Go Web 编程
 - [GoAdmin](https://github.com/GoAdminGroup/go-admin)，快速搭建 Go 可视化面板
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)，基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能
 - [go-ldap-admin](https://github.com/eryajf/go-ldap-admin)，基于 Go+Vue 实现的 openLDAP 后台管理项目
-
-### Web 框架
 
 - [gin](https://github.com/gin-gonic/gin)，最受欢迎的 go web 框架
 - [goyave](https://github.com/go-goyave/goyave)，优雅的 go REST API 框架
@@ -66,30 +71,49 @@
 - [websocket](https://github.com/gorilla/websocket)，快，充分测试，广泛使用的 WebSocket 库
 - [go-socket.io](https://github.com/googollee/go-socket.io)，go 语言 socket.io 库，实时应用框架
 - [A Million WebSockets and Go](https://www.freecodecamp.org/news/million-websockets-and-go-cc58418460bb/)
-
-
-### Gin
+- [casnode](https://github.com/casbin/casnode)，开源 BSS 框架，基于 Go + React
 
 - [photoprism](https://github.com/photoprism/photoprism)，使用 Gin 编写的个人照片管理程序
 - [pgweb](https://github.com/sosedoff/pgweb)，使用 Gin 编写的 PostgreSQL 数据库的跨平台客户端
 - [Gin Ecosystem](https://github.com/hhstore/blog/issues/132)，由[hhstore](https://github.com/hhstore)整理的 Gin 生态项目
 - [awesome gin](https://github.com/FlowerWrong/awesome-gin)，Gin 相关项目，涉及中间件/日志等
 
-### 数据库和缓存
+数据库和缓存
 
 - [ent](https://entgo.io/docs/getting-started/)，facebook 开源，
 - [gorm](https://gorm.io/docs/)，最流行的 orm 框架
-- [groupcache](https://github.com/golang/groupcache)，
+- [groupcache](https://github.com/golang/groupcache)，替代 memcached
+- [freecache](https://github.com/coocood/freecache)，Go 缓存库，无 GC
+- [bigcache](https://github.com/allegro/bigcache)，GB 级数据缓存
+- [ristretto](https://github.com/dgraph-io/ristretto)，高性能内存 cache
+- [rosedb](https://github.com/flower-corp/rosedb)，高性能 NoSQL 数据库
+- [gendry](https://github.com/didi/gendry)，滴滴开源的 sql builder
+- [db](https://github.com/upper/db)，PostgreSQL/MySQL/CockroachDB/SQLite 的数据访问层
 
-### 微服务
+网络和微服务
+
+- [frp](https://github.com/fatedier/frp)，反向代理
+- [chat](https://github.com/tinode/chat)，即时聊天平台
+- [evio](https://github.com/tidwall/evio)，高性能网络库
+- [NSQ](https://nsq.io/overview/quick_start.html)，即时分布式消息平台
+- [gowebsocket](https://github.com/link1st/gowebsocket)，分布式聊天（IM）系统
+- [gonet](https://github.com/bobohume/gonet)，分布式服务器，基于内存 mmo
 
 - [kratos](https://github.com/go-kratos/kratos)，一个 Go 微服务框架
 - [kit](https://github.com/go-kit/kit)，早期的 go 微服务工具包
 - [go-micro](https://github.com/asim/go-micro)，go 微服务框架
 - [kitex](https://github.com/cloudwego/kitex)，字节开源的 go RPC 框架，帮助构建微服务
 - [go-zero](https://github.com/zeromicro/go-zero)，云原生 go 微服务框架
+- [mqant](https://github.com/liangdas/mqant)，高性能分布式微服务框架
 
-### 原理
+kit 教程
+
+- [Getting started with Go kit](https://sagikazarmark.hu/blog/getting-started-with-go-kit/)
+- [Microservices in Go using the Go kit](https://dev.to/eminetto/microservices-in-go-using-the-go-kit-jjf)
+- [Go + gRPC with Go Kit](https://dev.to/junereycasuga/go-grpc-with-go-kit-3gab)
+- [OpenCesus Go kit](https://opencensus.io/integrations/go_kit/)
+
+实现原理和性能优化
 
 - [high performance go workshop](https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html)，如何分析和优化 Go 程序性能
 - [深入理解channel：设计+源码](http://lessisbetter.site/2019/03/03/golang-channel-design-and-source/)
@@ -100,10 +124,32 @@
 - [gopm](https://gopm.io/)，国内维护的 Go 语言包管理器，有大量 Go 语言第三方包
 - [Go 好文推荐](https://github.com/chunlintang/golang-anything-recommend/blob/master/README.md)
 - [Using Go instead of bash for scripts](https://presstige.io/p/Using-Go-instead-of-bash-for-scripts-6b51885c1f6940aeb40476000d0eb0fc)，使用 Go 代替 Bash 来编写项目中的脚本任务
+- [awesome-gc](https://github.com/cch123/awesome-gc)
+- [Golang 调度器](https://learnku.com/articles/41728)
+- [搞懂垃圾回收](https://juejin.cn/post/6844903917650722829?spm=ata.21736010.0.0.6c9f5586qAMHXJ)
+
+实战
+
+- [gophercises](https://gophercises.com/)，Go 实战
+- [high-performance-go](https://github.com/geektutu/high-performance-go)
+
+实用工具
+
+- [chromedp](https://github.com/chromedp/chromedp)
+- [GoFrame](https://github.com/gogf/gf)
+- [xid](https://github.com/rs/xid)，全局唯一 id 生成器
+- [Go 语言定制指南](https://chai2010.cn/go-ast-book/)
+- [gomacro](https://github.com/cosmos72/gomacro)，REPL
+- [gokins](http://gokins.cn/)，轻量级、持续继承、持续交付的工具
+
+GUI
+
+- [ebitengine](https://ebiten.org/)，超级简单的 2D 游戏库
 
 [回到目录](#目录)
 
 ## C/C++
+
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)，由 C++ 创始人 Bjarne Stroustrup 和巨佬 Herb Sutter 维护的 C++ 核心指南
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)，Google C++ 编码规范
 - [JSON for Modern C++](https://github.com/nlohmann/json)，现代 C++ 编写的 JSON 库
@@ -117,11 +163,13 @@
 - [abseil](https://abseil.io/docs/cpp/)，Google 开源的 C++ 编程库
 - [Crafting Interpreters](http://craftinginterpreters.com/contents.html)，自己动手实现解释器
 
+[回到目录](#目录)
+
 ## DB
 
 - [awesome database learning](https://github.com/pingcap/awesome-database-learning)，pingcap 整理的数据库学习指南
 
-### kv
+kv
 
 - [leveldb](https://github.com/google/leveldb)，Google 开源的高性能 key-value 存储库
 - [rocksdb](https://github.com/facebook/rocksdb)，facebook 从 leveldb 演化的一个分支，做了很多优化
@@ -133,21 +181,32 @@
 - [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)，自己动手实现一个数据库
 - [toydb](https://github.com/erikgrinaker/toydb)，Rust 实现的分布式 SQL 数据库，一个学习项目
 
-### redis
+redis
 
 - [redis.io](https://redis.io/)，redis 官方网站
 - [antirez](http://oldblog.antirez.com/)，redis 作者 blog
 - [redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer)，redis 内存分析工具，可以识别模式键名，例如 user:* 占用多少内存
 
-### MySQL
+SQL
 
 - [SQLite](https://www.sqlite.org/arch.html)，SQLite 架构
 - [MySQL Tutorial](http://www.mysqltutorial.org/)，MySQL 教程，从入门到精通，触发器/存储过程/视图/全文搜索等都有讲述，非常全面。还有各种语言的编程接口教程，PHP/NodeJS/JDBC/Python/Perl
-
-### PostgreSQL
-
 - [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)，PostgreSQL 教程，非常全面
 
+[回到目录](#目录)
+
+## Linux/UNIX
+
+- [UNIX 环境高级编程](http://www.apuebook.com/apue3e.html)，配套网站
+- [make](https://www.gnu.org/software/make/manual/html_node/index.html)，make 官方文档
+- [linux command](https://wangchujiang.com/linux-command/)，linux命令搜索
+- [linux 编程接口](https://man7.org/index.html)，配套网站
+- [跟我一起写 Makefile](https://seisman.github.io/how-to-write-makefile/index.html)
+- [awk 官方文档](https://www.gnu.org/software/gawk/manual/gawk.html)
+- [sed 官方文档](https://www.gnu.org/software/sed/)
+- [bash 教程](https://sodocumentation.net/bash)
+- [bash 官方文档](https://www.gnu.org/software/bash/manual/)
+- [bazel构建工具](https://bazel.build/)
 
 ## Network
 
@@ -167,6 +226,22 @@
 - [数据结构与算法(Golang实现)](https://github.com/hunterhug/goa.c)
 - [C++数据结构、算法与应用](https://www.cise.ufl.edu/~sahni/dsaac/)，《数据结构、算法与应用 C++》配套网站
 
+## 游戏开发
+
+- [skynet](https://github.com/cloudwu/skynet)，云风开源的游戏服务器框架
+- [skynet设计综述](https://blog.codingnow.com/2012/09/the_design_of_skynet.html)，云风博客，skynet 设计综述，了解 skynet 背后的设计
+- [pbc](https://github.com/cloudwu/pbc)，云风开发的 Google Protocol Buffers 的 C 语言库，支持 lua binding
+- [Manistein's Blog](http://manistein.club/)，很多解析 skynet 的文章
+- [skynet timer](https://losophy.github.io/post/ee7b06a5.html)，skynet 定时器实现剖析
+
+- [BigWorld Engine](https://github.com/v2v3v4/BigWorld-Engine-2.0.1)，BigWorld 游戏引擎
+- [leaf](https://github.com/name5566/leaf)，游戏服务器框架
+- [antnet](https://github.com/magiclvzs/antnet)，游戏服务器网络框架
+- [lockstepserver](https://github.com/byebyebruce/lockstepserver)，帧同步服务器
+
+- [游戏中的随机概率](https://www.huangwei.pro/posts/game-random/)
+- [游戏掉落概率](https://github.com/mebusy/notes/blob/master/dev_notes/Dev_Random.md)
+
 ## Tutorial
 
 - [RealWorld exmaple apps](https://github.com/gothinkster/realworld)，真实项目示例
@@ -175,6 +250,11 @@
 - [docs4dev](https://www.docs4dev.com/)，收集技术中文文档，Java/Spring全家桶/Linux/BigData等
 - [码农周刊](https://github.com/rogerzhu/MNWeeklyCategory)
 - [Github开源实战项目](https://juejin.im/post/5df9fe6be51d45583c1cc3f7)
+- [project based learning](https://github.com/practical-tutorials/project-based-learning)
+- [build your own x](https://github.com/codecrafters-io/build-your-own-x)
+- [system design primer](https://github.com/donnemartin/system-design-primer)
+- [tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
+- [凤凰架构](http://icyfenix.cn/)
 
 ## Web
 
@@ -195,6 +275,10 @@
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)，Vue 管理页面
 
 - [font-awesome](https://fontawesome.com/)，字体资源
+
+## Blog
+
+- [潘建峰](https://strikefreedom.top/)
 
 ## 免费的图标和图片
 
