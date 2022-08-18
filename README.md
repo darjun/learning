@@ -26,8 +26,8 @@
 
 ## Docker
 
-- [Docker 从入门到实践](https://docker_practice.gitee.io/zh-cn/)，Docker 入门推荐
-- [Docker 新手教程](https://docker-curriculum.com/)，Docker 官方编写的新手教程
+- [Docker 从入门到实践](https://docker_practice.gitee.io/zh-cn/)- Docker 入门推荐
+- [Docker 新手教程](https://docker-curriculum.com/) - Docker 官方编写的新手教程
 
 [回到目录](#目录)
 
@@ -46,6 +46,10 @@
 - [awesome golang workshops](https://github.com/amit-davidson/awesome-golang-workshops)
 - [gotraining](https://github.com/ardanlabs/gotraining)
 - [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)
+
+日志
+
+- [zerolog](https://github.com/rs/zerolog) - 零内存分配日志库
 
 Web 相关
 
