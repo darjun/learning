@@ -139,6 +139,7 @@ kit 教程
 
 实用工具
 
+- [cli](https://github.com/urfave/cli) - 命令行应用工具
 - [chromedp](https://github.com/chromedp/chromedp)
 - [GoFrame](https://github.com/gogf/gf)
 - [xid](https://github.com/rs/xid)，全局唯一 id 生成器
