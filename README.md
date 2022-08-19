@@ -110,6 +110,8 @@ Web 相关
 - [go-zero](https://github.com/zeromicro/go-zero)，云原生 go 微服务框架
 - [mqant](https://github.com/liangdas/mqant)，高性能分布式微服务框架
 
+- [cloudwego](https://www.cloudwego.io/zh/) - 字节跳动开源的微服务框架
+
 kit 教程
 
 - [Getting started with Go kit](https://sagikazarmark.hu/blog/getting-started-with-go-kit/)
