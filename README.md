@@ -215,9 +215,13 @@ SQL
 - [bash 官方文档](https://www.gnu.org/software/bash/manual/)
 - [bazel构建工具](https://bazel.build/)
 
+[回到目录](#目录)
+
 ## Network
 
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/#structs) - 网络编程教程
+
+[回到目录](#目录)
 
 ## 数据结构与算法
 
@@ -232,6 +236,8 @@ SQL
 - [LeetCode](https://github.com/wisdompeak/LeetCode) - 实现和精讲
 - [数据结构与算法(Golang实现)](https://github.com/hunterhug/goa.c)
 - [C++数据结构、算法与应用](https://www.cise.ufl.edu/~sahni/dsaac/) -《数据结构、算法与应用 C++》配套网站
+
+[回到目录](#目录)
 
 ## 游戏开发
 
@@ -249,6 +255,8 @@ SQL
 - [游戏中的随机概率](https://www.huangwei.pro/posts/game-random/)
 - [游戏掉落概率](https://github.com/mebusy/notes/blob/master/dev_notes/Dev_Random.md)
 
+[回到目录](#目录)
+
 ## Tutorial
 
 - [RealWorld exmaple apps](https://github.com/gothinkster/realworld) - 真实项目示例
@@ -256,12 +264,13 @@ SQL
 - [exercism](https://exercism.io/) - 编程语言教程
 - [docs4dev](https://www.docs4dev.com/) - 收集技术中文文档，Java/Spring全家桶/Linux/BigData等
 - [码农周刊](https://github.com/rogerzhu/MNWeeklyCategory)
-- [Github开源实战项目](https://juejin.im/post/5df9fe6be51d45583c1cc3f7)
 - [project based learning](https://github.com/practical-tutorials/project-based-learning)
 - [build your own x](https://github.com/codecrafters-io/build-your-own-x)
 - [system design primer](https://github.com/donnemartin/system-design-primer)
 - [tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
 - [凤凰架构](http://icyfenix.cn/)
+
+[回到目录](#目录)
 
 ## Web
 
@@ -282,6 +291,8 @@ SQL
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - Vue 管理页面
 
 - [font-awesome](https://fontawesome.com/) - 字体资源
+
+[回到目录](#目录)
 
 ## Blog
 
