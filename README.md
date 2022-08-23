@@ -4,7 +4,7 @@
 
 ## 目录
 
-- [编程基础](#编程基础)
+- [基础](#基础)
 - [Docker](#docker)
 - [Go](#go)
 - [C/C++](#cc)
@@ -18,9 +18,11 @@
 - [Blog](#blog)
 - [免费的图标和图片](#免费的图标和图片)
 
-## 编程基础
+## 基础
 
 - [free programming books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)，免费的编程书籍
+
+- [Awesome README](https://github.com/matiassingers/awesome-readme)
 
 [回到目录](#目录)
 
