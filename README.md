@@ -59,6 +59,7 @@ Web
 - [REST Servers in Go](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/) - 用 go 写一个 REST 服务器，系列文章
 - [Developing a RESTful API with Go and Gin](https://golang.org/doc/tutorial/web-service-gin)
 - [Go Web 开发](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
+- [Go Web 编程](https://learnku.com/docs/build-web-application-with-golang/) - Go Web 编程，新加坡郑兆雄著，黄健宏译
 - [无闻的 Go Web 教程](https://github.com/unknwon/building-web-applications-in-go)
 - [Learn Web Programming in Go by Example](https://gowebexamples.com/) - 通过示例学习 Go Web 编程
 - [GoAdmin](https://github.com/GoAdminGroup/go-admin) - 快速搭建 Go 可视化面板
