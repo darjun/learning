@@ -65,6 +65,7 @@ Web
 - [GoAdmin](https://github.com/GoAdminGroup/go-admin) - 快速搭建 Go 可视化面板
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能
 - [go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 基于 Go+Vue 实现的 openLDAP 后台管理项目
+- [pocketbase](https://github.com/pocketbase/pocketbase) - 开源 Go 后端，内置文件和用户管理
 
 - [gin](https://github.com/gin-gonic/gin) - 最受欢迎的 go web 框架
 - [goyave](https://github.com/go-goyave/goyave) - 优雅的 go REST API 框架
