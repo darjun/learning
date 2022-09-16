@@ -267,6 +267,8 @@ SQL
 - [游戏中的随机概率](https://www.huangwei.pro/posts/game-random/)
 - [游戏掉落概率](https://github.com/mebusy/notes/blob/master/dev_notes/Dev_Random.md)
 
+- [BehaviorTree.CPP](https://www.behaviortree.dev/)
+
 [回到目录](#目录)
 
 ## Tutorial
