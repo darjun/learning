@@ -192,6 +192,7 @@ kv
 - [memcached源码分析](https://blog.csdn.net/initphp/category_9265236.html?spm=ata.21736010.0.0.340a262ac3Qcqv)
 - [leveldb](https://github.com/google/leveldb) - Google 开源的高性能 key-value 存储库
 - [rocksdb](https://github.com/facebook/rocksdb) - facebook 从 leveldb 演化的一个分支，做了很多优化
+- [scylladb](https://www.scylladb.com/2018/01/17/compaction-series-space-amplification/?spm=ata.21736010.0.0.4999331cBGxKBU)
 
 - [tidb](https://github.com/pingcap/tidb) - 开源、云原生、分布式、MySQL 兼容的数据库
 - [tikv](https://github.com/tikv/tikv) - 分布式 key-value 存储，是 tidb 的一个补充
