@@ -178,6 +178,7 @@ GUI
 - [googletest](https://google.github.io/googletest/primer.html) - Google C++ 测试框架
 - [abseil](https://abseil.io/docs/cpp/) - Google 开源的 C++ 编程库
 - [Crafting Interpreters](http://craftinginterpreters.com/contents.html) - 自己动手实现解释器
+- [Awesome CPP](https://github.com/fffaraz/awesome-cpp)
 
 [回到目录](#目录)
 
@@ -287,6 +288,7 @@ SQL
 - [system design primer](https://github.com/donnemartin/system-design-primer)
 - [tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
 - [凤凰架构](http://icyfenix.cn/)
+- [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
 [回到目录](#目录)
 
