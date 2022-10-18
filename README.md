@@ -16,6 +16,7 @@
 - [游戏开发](#游戏开发)
 - [Tutorial](#tutorial)
 - [Web](#web)
+- [AI](#AI)
 - [Blog](#blog)
 - [免费的图标和图片](#免费的图标和图片)
 - [画图](#画图)
@@ -308,6 +309,10 @@ SQL
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - Vue 管理页面
 
 - [font-awesome](https://fontawesome.com/) - 字体资源
+
+## AI
+
+- [Practical Deep Learning](https://course.fast.ai/)
 
 [回到目录](#目录)
 
