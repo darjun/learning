@@ -102,6 +102,7 @@ Web
 - [rosedb](https://github.com/flower-corp/rosedb) - 高性能 NoSQL 数据库
 - [gendry](https://github.com/didi/gendry) - 滴滴开源的 sql builder
 - [db](https://github.com/upper/db) - PostgreSQL/MySQL/CockroachDB/SQLite 的数据访问层
+- [migrate](https://github.com/golang-migrate/migrate)
 
 网络和微服务
 
@@ -273,6 +274,8 @@ SQL
 - [游戏掉落概率](https://github.com/mebusy/notes/blob/master/dev_notes/Dev_Random.md)
 
 - [BehaviorTree.CPP](https://www.behaviortree.dev/)
+
+- [bevy](https://github.com/bevyengine/bevy) - 数据驱动游戏服务器
 
 [回到目录](#目录)
 
