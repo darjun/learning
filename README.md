@@ -293,6 +293,7 @@ SQL
 - [tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
 - [凤凰架构](http://icyfenix.cn/)
 - [CS-Notes](https://github.com/CyC2018/CS-Notes)
+- [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
 
 [回到目录](#目录)
 
