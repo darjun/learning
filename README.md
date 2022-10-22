@@ -269,6 +269,7 @@ SQL
 - [leaf](https://github.com/name5566/leaf) - 游戏服务器框架
 - [antnet](https://github.com/magiclvzs/antnet) - 游戏服务器网络框架
 - [lockstepserver](https://github.com/byebyebruce/lockstepserver) - 帧同步服务器
+- [goworld](https://github.com/xiaonanln/goworld)
 
 - [游戏中的随机概率](https://www.huangwei.pro/posts/game-random/)
 - [游戏掉落概率](https://github.com/mebusy/notes/blob/master/dev_notes/Dev_Random.md)
