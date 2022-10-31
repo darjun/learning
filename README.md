@@ -53,6 +53,7 @@
 - [gotraining](https://github.com/ardanlabs/gotraining)
 - [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)
 - [Go面试题](https://github.com/lifei6671/interview-go)
+- [Go Cookbook](https://blog.kowalczyk.info/book/go-cookbook.html)
 
 日志
 
