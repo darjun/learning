@@ -18,7 +18,6 @@
 - [Web](#web)
 - [AI](#AI)
 - [Blog](#blog)
-- [免费的图标和图片](#免费的图标和图片)
 - [画图](#画图)
 
 ## 基础
@@ -327,20 +326,6 @@ SQL
 ## Blog
 
 - [潘建峰](https://strikefreedom.top/)
-
-## 免费的图标和图片
-
-- [阿里巴巴矢量图标库](https://www.iconfont.cn/home/index?spm=a313x.7781069.1998910419.2)
-- [Fontello](https://www.iconfont.cn/home/index?spm=a313x.7781069.1998910419.2)
-- [easyicon](https://www.easyicon.net/)
-- [free icons](https://www.iconfinder.com/free_icons)
-- [pexels](https://www.pexels.com/)
-- [Gratisography](https://gratisography.com/)
-- [icons8](https://icons8.com/)
-- [unsplash](https://unsplash.com/)
-- [pixabay](https://pixabay.com/)
-
-[回到目录](#目录)
 
 ## 画图
 
