@@ -122,6 +122,8 @@ Web
 
 - [cloudwego](https://www.cloudwego.io/zh/) - 字节跳动开源的微服务框架
 
+- [asynq](https://github.com/hibiken/asynq) - 消息队列
+
 kit 教程
 
 - [Getting started with Go kit](https://sagikazarmark.hu/blog/getting-started-with-go-kit/)
@@ -180,6 +182,8 @@ GUI
 - [abseil](https://abseil.io/docs/cpp/) - Google 开源的 C++ 编程库
 - [Crafting Interpreters](http://craftinginterpreters.com/contents.html) - 自己动手实现解释器
 - [Awesome CPP](https://github.com/fffaraz/awesome-cpp)
+- [capnproto](https://github.com/capnproto/capnproto)
+- [protostuff](https://github.com/protostuff/protostuff)
 
 [回到目录](#目录)
 
