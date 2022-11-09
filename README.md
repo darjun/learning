@@ -325,6 +325,7 @@ SQL
 ## AI
 
 - [Practical Deep Learning](https://course.fast.ai/)
+- [ChatBotCourse](https://github.com/lcdevelop/ChatBotCourse)
 
 [回到目录](#目录)
 
