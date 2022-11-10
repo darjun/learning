@@ -169,7 +169,6 @@ kit 教程
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) - Google C++ 编码规范
 - [JSON for Modern C++](https://github.com/nlohmann/json) - 现代 C++ 编写的 JSON 库
 - [Standard Template Library Programer's Guide](https://www.boost.org/sgi/stl/) - 标准模板库编程指南
-- [muduo](https://github.com/chenshuo/muduo) - 陈硕开源的多线程 C++ 网络库
 - [jemalloc](https://jemalloc.net/) - 应用广泛的内存分配器库
 - [Optimizations That Aren't(In a Multithreaded World)](http://www.gotw.ca/publications/optimizations.htm) - 有些优化对多线程无效
 - [folly](https://github.com/facebook/folly) - facebook 开源的 C++ 程序库，包含多种功能（容器、压缩、并发等等）
@@ -179,7 +178,6 @@ kit 教程
 - [Crafting Interpreters](http://craftinginterpreters.com/contents.html) - 自己动手实现解释器
 - [Awesome CPP](https://github.com/fffaraz/awesome-cpp)
 - [capnproto](https://github.com/capnproto/capnproto)
-- [protostuff](https://github.com/protostuff/protostuff)
 
 [回到目录](#目录)
 
@@ -238,6 +236,7 @@ SQL
 ## Network
 
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/#structs) - 网络编程教程
+- [muduo](https://github.com/chenshuo/muduo) - 陈硕开源的多线程 C++ 网络库
 
 [回到目录](#目录)
 
