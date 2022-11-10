@@ -161,10 +161,6 @@ kit 教程
 - [gomacro](https://github.com/cosmos72/gomacro) - REPL
 - [gokins](http://gokins.cn/) - 轻量级、持续继承、持续交付的工具
 
-GUI
-
-- [ebitengine](https://ebiten.org/) - 超级简单的 2D 游戏库
-
 [回到目录](#目录)
 
 ## C/C++
@@ -281,6 +277,8 @@ SQL
 - [BehaviorTree.CPP](https://www.behaviortree.dev/)
 
 - [bevy](https://github.com/bevyengine/bevy) - 数据驱动游戏服务器
+
+- [ebitengine](https://ebiten.org/) - 超级简单的 2D 游戏库
 
 [回到目录](#目录)
 
