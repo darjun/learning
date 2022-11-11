@@ -8,6 +8,7 @@
 - [Docker](#docker)
 - [Go](#go)
 - [C/C++](#cc)
+- [Lua](#lua)
 - [Python](#python)
 - [DB](#db)
 - [Linux/UNIX](#linuxunix)
@@ -181,8 +182,14 @@ kit 教程
 
 [回到目录](#目录)
 
+## Lua
+- [argparse](https://argparse.readthedocs.io/en/stable/) - 命令行参数解析库
+
+[回到目录](#目录)
+
 ## Python
 - [学习Python内置函数](https://sadh.life/post/builtins/)
+- [Full Stack Python](https://www.fullstackpython.com/) - python全栈教程，从基础语法，到Web开发，到上线部署
 
 [回到目录](#目录)
 
