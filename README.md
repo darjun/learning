@@ -24,7 +24,7 @@
 ## 基础
 
 - [free programming books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)，免费的编程书籍
-
+- [the book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
 
 [回到目录](#目录)
@@ -54,6 +54,9 @@
 - [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)
 - [Go面试题](https://github.com/lifei6671/interview-go)
 - [Go Cookbook](https://blog.kowalczyk.info/book/go-cookbook.html)
+- [Go后端程序员宝典](https://github.com/shgopher/GOFamily)
+- [Go编程时光](https://github.com/iswbm/GolangCodingTime)
+- [Go高级教程](https://github.com/jincheng9/go-tutorial)
 
 日志
 
