@@ -25,6 +25,7 @@
 
 - [free programming books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)，免费的编程书籍
 - [the book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [cs self teaching](https://github.com/PKUFlyingPig/cs-self-learning)
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
 
 [回到目录](#目录)
