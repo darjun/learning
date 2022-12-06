@@ -128,6 +128,8 @@ Web
 - [cloudwego](https://www.cloudwego.io/zh/) - 字节跳动开源的微服务框架
 
 - [asynq](https://github.com/hibiken/asynq) - 消息队列
+- [gim](https://github.com/alberliu/gim) - Go IM服务器
+- [go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - 微服务demo
 
 kit 教程
 
@@ -165,6 +167,9 @@ kit 教程
 - [Go 语言定制指南](https://chai2010.cn/go-ast-book/)
 - [gomacro](https://github.com/cosmos72/gomacro) - REPL
 - [gokins](http://gokins.cn/) - 轻量级、持续继承、持续交付的工具
+- [mage](https://github.com/magefile/mage) - 类似make的工具
+
+- [go-clean-template](https://github.com/evrone/go-clean-template) - 模板
 
 [回到目录](#目录)
 
