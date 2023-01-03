@@ -15,6 +15,7 @@
 - [Network](#network)
 - [数据结构与算法](#数据结构与算法)
 - [游戏开发](#游戏开发)
+- [系统架构](#系统架构)
 - [Tutorial](#tutorial)
 - [Web](#web)
 - [Blog](#blog)
@@ -302,6 +303,10 @@ SQL
 - [Game Off 2022](https://itch.io/jam/game-off-2022)
 
 [回到目录](#目录)
+
+## 系统架构
+
+- [system design primer](https://github.com/donnemartin/system-design-primer)
 
 ## Tutorial
 
