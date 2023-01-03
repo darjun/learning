@@ -26,6 +26,7 @@
 - [the book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [cs self teaching](https://github.com/PKUFlyingPig/cs-self-learning)
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
+- [Roadmap](https://roadmap.sh/)
 
 [回到目录](#目录)
 
@@ -255,6 +256,7 @@ SQL
 
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/#structs) - 网络编程教程
 - [muduo](https://github.com/chenshuo/muduo) - 陈硕开源的多线程 C++ 网络库
+- [c10k](http://www.kegel.com/c10k.html)
 
 [回到目录](#目录)
 
