@@ -250,6 +250,7 @@ SQL
 - [bazel构建工具](https://bazel.build/)
 - [Effective Shell](https://effective-shell.com/)
 - [pure bash bible](https://github.com/dylanaraps/pure-bash-bible)
+- [explain shell](https://explainshell.com/)
 
 [回到目录](#目录)
 
