@@ -28,6 +28,12 @@
 - [cs self teaching](https://github.com/PKUFlyingPig/cs-self-learning)
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
 - [Roadmap](https://roadmap.sh/)
+- [Mathematics for Computer Science](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fcourses.csail.mit.edu%2F6.042%2Fspring17%2Fmcs.pdf) - 计算机科学中的数学
+- [What Every Programmer Should Know About Memory](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fakkadia.org%2Fdrepper%2Fcpumemory.pdf) - 每个程序员都需要了解的内存知识
+- [Principles Wiki](http://www.principles-wiki.net/principles:start) - 编程原则
+- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - 每个程序员都要知道的 Unicode 编码知识
+- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - 每个程序员都要知道的知识
+- 
 
 [回到目录](#目录)
 
@@ -274,6 +280,8 @@ SQL
 - [LeetCode](https://github.com/wisdompeak/LeetCode) - 实现和精讲
 - [数据结构与算法(Golang实现)](https://github.com/hunterhug/goa.c)
 - [C++数据结构、算法与应用](https://www.cise.ufl.edu/~sahni/dsaac/) -《数据结构、算法与应用 C++》配套网站
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - 数据结构可视化
+- [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html) - 算法竞赛
 
 [回到目录](#目录)
 
