@@ -28,8 +28,8 @@
 - [cs self teaching](https://github.com/PKUFlyingPig/cs-self-learning)
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
 - [Roadmap](https://roadmap.sh/)
-- [Mathematics for Computer Science](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fcourses.csail.mit.edu%2F6.042%2Fspring17%2Fmcs.pdf) - 计算机科学中的数学
-- [What Every Programmer Should Know About Memory](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fakkadia.org%2Fdrepper%2Fcpumemory.pdf) - 每个程序员都需要了解的内存知识
+- [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) - 计算机科学中的数学
+- [What Every Programmer Should Know About Memory](https://akkadia.org/drepper/cpumemory.pdf) - 每个程序员都需要了解的内存知识
 - [Principles Wiki](http://www.principles-wiki.net/principles:start) - 编程原则
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - 每个程序员都要知道的 Unicode 编码知识
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - 每个程序员都要知道的知识
