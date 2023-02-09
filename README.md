@@ -196,6 +196,8 @@ kit 教程
 - [Crafting Interpreters](http://craftinginterpreters.com/contents.html) - 自己动手实现解释器
 - [Awesome CPP](https://github.com/fffaraz/awesome-cpp)
 - [capnproto](https://github.com/capnproto/capnproto)
+- [srpc](https://github.com/sogou/srpc) - High performance, low latency, lightweight enterprise-level RPC system. Supports Baidu bRPC, Tencent tRPC, thrift protocols
+- [cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 
 [回到目录](#目录)
 
@@ -262,8 +264,18 @@ SQL
 ## Network
 
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/#structs) - 网络编程教程
+- [The C10K problem](http://www.kegel.com/c10k.html)
 - [muduo](https://github.com/chenshuo/muduo) - 陈硕开源的多线程 C++ 网络库
-- [c10k](http://www.kegel.com/c10k.html)
+- [muduo-tutorial](https://github.com/chenshuo/muduo-tutorial) - Tutorial of Muduo network library
+- [libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
+- [learn-libuv](https://github.com/thlorenz/learnuv) - About
+Learn uv for fun and profit, a self guided workshop to the library that powers Node.js
+- [libevent](https://github.com/libevent/libevent) - Event notification library
+- [aceld/libevent](https://github.com/aceld/libevent) - <Libevent深入浅出>
+- [Fast UNIX Servers](https://nick-black.com/dankwiki/index.php/Fast_UNIX_Servers)
+- [scalable-networking.pdf](http://bulk.fefe.de/scalable-networking.pdf)
+- [Benchmarking BSD and Linux](http://bulk.fefe.de/scalability/)
+- [Jeff Darcy’s notes on really high performance servers](https://parijatmishra.wordpress.com/2006/12/10/jeff-darcys-notes-on-really-high-performance-servers/)
 
 [回到目录](#目录)
 
