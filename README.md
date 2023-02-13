@@ -198,6 +198,7 @@ kit 教程
 - [capnproto](https://github.com/capnproto/capnproto)
 - [srpc](https://github.com/sogou/srpc) - High performance, low latency, lightweight enterprise-level RPC system. Supports Baidu bRPC, Tencent tRPC, thrift protocols
 - [cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
+- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 
 [回到目录](#目录)
 
