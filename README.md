@@ -183,6 +183,8 @@ kit 教程
 
 ## C/C++
 
+- [cpp tutorial](https://cplusplus.com/doc/tutorial/) - cplusplus 教程
+- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - 由 C++ 创始人 Bjarne Stroustrup 和巨佬 Herb Sutter 维护的 C++ 核心指南
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) - Google C++ 编码规范
 - [JSON for Modern C++](https://github.com/nlohmann/json) - 现代 C++ 编写的 JSON 库
@@ -198,7 +200,6 @@ kit 教程
 - [capnproto](https://github.com/capnproto/capnproto)
 - [srpc](https://github.com/sogou/srpc) - High performance, low latency, lightweight enterprise-level RPC system. Supports Baidu bRPC, Tencent tRPC, thrift protocols
 - [cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
-- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 - [coost](https://github.com/idealvin/coost) - 类 boost 的轻量级 C++ 开发库
 
 [回到目录](#目录)
