@@ -33,7 +33,7 @@
 - [Principles Wiki](http://www.principles-wiki.net/principles:start) - 编程原则
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - 每个程序员都要知道的 Unicode 编码知识
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - 每个程序员都要知道的知识
-- 
+- [stypleguides](https://github.com/google/styleguide) - google 的编码规范（包括 C++/Java/HTML/CSS 等等)
 
 [回到目录](#目录)
 
