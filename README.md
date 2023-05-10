@@ -212,6 +212,7 @@ kit 教程
 ## Python
 - [学习Python内置函数](https://sadh.life/post/builtins/)
 - [Full Stack Python](https://www.fullstackpython.com/) - python全栈教程，从基础语法，到Web开发，到上线部署
+- [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
 
 [回到目录](#目录)
 
